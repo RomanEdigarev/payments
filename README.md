@@ -1,4 +1,4 @@
-# payments_webpanel
+# Payments
 
 ## Project setup
 ```
